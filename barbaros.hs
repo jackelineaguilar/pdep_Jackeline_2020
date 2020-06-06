@@ -1,6 +1,7 @@
 import Text.Show.Functions
 ---- 05 06 2020
 ----
+---- 06 06 2020
 --Se sabe que los bárbaros tienen nombre, fuerza, habilidades y objetos, que los ayudarán más adelante en su lucha contra el mal. Por ejemplo, dave tiene:
 
 type Objeto = ( Barbaro -> Barbaro)
